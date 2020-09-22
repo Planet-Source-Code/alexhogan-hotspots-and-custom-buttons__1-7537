@@ -1,0 +1,33 @@
+Hotspots part1.
+Basic Hotspots
+
+
+This program will show new users of Visual Basic how to create hotspots and custom buttons using the image control.
+
+I have purposely used a couple of different techniques with control arrays and variable arrays.  This was done to show that there is more than one way to do the same thing programatically.  Is one better than the other? Not necessaraly.  The code you will find here can and should be tightened up.  I left it loose for now so you can see how and why I got the functionality I wanted.
+
+You will be able to do several things;
+
+1.  You will see how variable arrays can be used to switch graphics on a single image control.
+
+2.  You will see how you can use control arrays with different graphics and by using the properties make them visiable or not.
+
+3.  You will see how to use a shape control and identify the screen location for your hotspots.
+
+4.  You will see how to turn on and off the hotspot identifier (shape control).  This is useful when you want your user to know the location of the hotspot.
+
+5.  You will see how to make custom buttons using graphics and the image control.
+
+6.  You will see how to switch the button's graphics.
+
+And finally, you will see the underlying thought process on how an "Interactive Multimedia" program is built in VB.
+
+In Hotspots part2 
+We'll tighten up the code in part1, plus I will cover irregular shaped hotspots, using a single image control for multiple hotspots on the screen, creating controls for hotspots at runtime, and making a hotspot editor to gather the screen locations for our hotspots.
+
+As always, your comments and votes keep these examples coming.  Please take a minute to tell me what you think.
+
+
+For comments and suggestions contact;
+Alex Hogan
+hogana@usapathway.com
